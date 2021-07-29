@@ -15,4 +15,4 @@ THIS IS THE BETA VERSION THERE ARE SOME BUGS AND ISSUES | PROGRAMMED ON | Parrot
 /////////INSTALLS/////////
 
 cd Dark-browser && cd DBROWSER
-#ALL IN ONE | git clone https://github.com/ArkAngeL43/Dark-browser.git && cd Dark-browser && cd DBROWSER && sudo apt-get install tor && sudo apt-get install #proxychains && pip install PyQtWebEngine && pip install colorama && pip install pyfiglet && pip install requests
+#ALL IN ONE | git clone https://github.com/ArkAngeL43/DBROWSER-SEPERATE.git && cd DBROWSER-SEPERATE && sudo apt-get install tor && sudo apt-get install #proxychains && pip install PyQtWebEngine && pip install colorama && pip install pyfiglet && pip install requests
